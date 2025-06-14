@@ -46,4 +46,4 @@ SpacesInParentheses: false
 BreakBeforeConceptDeclarations: Always
 RequiresExpressionIndentation: OuterScope
 Standard: c++20
-UseTab:          Never
+UseTab:          true userinterface
